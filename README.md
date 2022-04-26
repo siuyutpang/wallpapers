@@ -1,4 +1,7 @@
-### 1366x768 resolution
+<center><h1>preview</h1></center>
+
+<center><h3>1366x768 resolution</h3></center>
+
 [![picture_01](./1366x768/001.jpg)](./1366x768/001.jpg)
 
 [![picture_02](./1366x768/002.jpg)](./1366x768/002.jpg)
@@ -9,7 +12,7 @@
 
 [![picture_05](./1366x768/005.jpg)](./1366x768/005.jpg)
 
-### 1920x1080 resolution
+<center><h3>1920x1080 resolution</h3></center>
 
 [![picture_01](./1920x1080/001.jpg)](./1920x1080/001.jpg)
 
