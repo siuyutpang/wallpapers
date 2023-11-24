@@ -34,7 +34,7 @@ generate_md() {
     shopt -s nullglob
 
     local location="$path/README.md"
-    echo "wallpapers showcase" > $location
+    echo "## showcase" > $location
     for pic in $(ls "$path"/*.{jpg,png}); do
         echo "${pic##*/}" >> $location
         echo "![$pic]($pic)" >> $location
